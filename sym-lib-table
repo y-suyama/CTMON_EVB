@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HCB1005KF-121T20")(type "KiCad")(uri "${KIPRJMOD}/usrlib/HCB1005KF-121T20/hcb1005kf-121t20.kicad_sym")(options "")(descr ""))
+  (lib (name "ADS1115IDGSR")(type "KiCad")(uri "${KIPRJMOD}/usrlib/ADS1115IDGSR/ADS1115IDGSR.kicad_sym")(options "")(descr ""))
+  (lib (name "LESD5D5-0CT1G")(type "KiCad")(uri "${KIPRJMOD}/usrlib/LESD5D5-0CT1G/LESD5D5-0CT1G.kicad_sym")(options "")(descr ""))
+  (lib (name "CC6920SO-20A")(type "KiCad")(uri "${KIPRJMOD}/usrlib/CC6920SO-20A/CC6920SO-20A.kicad_sym")(options "")(descr ""))
+  (lib (name "CC6920SO-10A")(type "KiCad")(uri "${KIPRJMOD}/usrlib/CC6920SO-10A/CC6920SO-10A.kicad_sym")(options "")(descr ""))
+  (lib (name "CC6920SO-5A")(type "KiCad")(uri "${KIPRJMOD}/usrlib/CC6920SO-5A/CC6920SO-5A.kicad_sym")(options "")(descr ""))
+  (lib (name "HB9500M-9.5-8P")(type "KiCad")(uri "${KIPRJMOD}/usrlib/HB9500M-9.5-8P/HB9500M-9.5-8P.kicad_sym")(options "")(descr ""))
+  (lib (name "WJ126V-5.0-2")(type "KiCad")(uri "${KIPRJMOD}/usrlib/WJ126V-5.0-2P/WJ126V-5.0-2P.kicad_sym")(options "")(descr ""))
+  (lib (name "K1812L30012DR")(type "KiCad")(uri "${KIPRJMOD}/usrlib/K1812L30012DR/K1812L30012DR.kicad_sym")(options "")(descr ""))
+  (lib (name "UJC-HP-3-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/usrlib/UJC-HP-3-SMT-TR/UJC-HP-3-SMT-TR.kicad_sym")(options "")(descr ""))
+)

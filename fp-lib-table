@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ADS1115IDGSR")(type "KiCad")(uri "${KIPRJMOD}/usrlib/ADS1115IDGSR/footprints.pretty")(options "")(descr ""))
+  (lib (name "HCB1005KF-121T20")(type "KiCad")(uri "${KIPRJMOD}/usrlib/HCB1005KF-121T20")(options "")(descr ""))
+  (lib (name "LESD5D5-0CT1G")(type "KiCad")(uri "${KIPRJMOD}/usrlib/LESD5D5-0CT1G/footprints.pretty")(options "")(descr ""))
+  (lib (name "HB9500M-9.5-8P")(type "KiCad")(uri "${KIPRJMOD}/usrlib/HB9500M-9.5-8P/footprints.pretty")(options "")(descr ""))
+  (lib (name "K1812L30012DR")(type "KiCad")(uri "${KIPRJMOD}/usrlib/K1812L30012DR/footprints.pretty")(options "")(descr ""))
+  (lib (name "UJC-HP-3-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/usrlib/UJC-HP-3-SMT-TR/footprints.pretty")(options "")(descr ""))
+)
